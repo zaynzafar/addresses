@@ -7,7 +7,7 @@
       "addressLine3": "Norway",
       "invoiceType": "EDI (Digital Invoice)",
       "invoiceEmail": "invoice@company.com",
-      "isDefault": "true"
+      "isDefault": true
     },
     {
       "companyName": "Legoland AS",
@@ -16,7 +16,7 @@
       "addressLine3": "Denmark",
       "invoiceType": "Email (PDF invoice)",
       "invoiceEmail": "faktura@elgiganten.dk",
-      "isDefault": "false"
+      "isDefault": false
     },
     {
       "companyName": "Company Name AS",
@@ -25,7 +25,7 @@
       "addressLine3": "Norway",
       "invoiceType": "EDI (Digital Invoice)",
       "invoiceEmail": "invoice@company.com",
-      "isDefault": "false"
+      "isDefault": false
     },
     {
       "companyName": "Company Name AS",
@@ -34,7 +34,7 @@
       "addressLine3": "Norway",
       "invoiceType": "EDI (Digital Invoice)",
       "invoiceEmail": "invoice@company.com",
-      "isDefault": "false"
+      "isDefault": false
     }
   ]
 }
