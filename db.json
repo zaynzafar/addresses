@@ -1,0 +1,40 @@
+{
+  "addresses": [
+    {
+      "companyName": "Company Name AS",
+      "addressLine1": "Osloveien 50",
+      "addressLine2": "0267 Oslo",
+      "addressLine3": "Norway",
+      "invoiceType": "EDI (Digital Invoice)",
+      "invoiceEmail": "invoice@company.com",
+      "isDefault": "true"
+    },
+    {
+      "companyName": "Legoland AS",
+      "addressLine1": "Hugos gade 2",
+      "addressLine2": "0579 Copenhagen",
+      "addressLine3": "Denmark",
+      "invoiceType": "Email (PDF invoice)",
+      "invoiceEmail": "faktura@elgiganten.dk",
+      "isDefault": "false"
+    },
+    {
+      "companyName": "Company Name AS",
+      "addressLine1": "Osloveien 50",
+      "addressLine2": "0267 Oslo",
+      "addressLine3": "Norway",
+      "invoiceType": "EDI (Digital Invoice)",
+      "invoiceEmail": "invoice@company.com",
+      "isDefault": "false"
+    },
+    {
+      "companyName": "Company Name AS",
+      "addressLine1": "Kristiansandsgate 15",
+      "addressLine2": "1473 Lørenskog",
+      "addressLine3": "Norway",
+      "invoiceType": "EDI (Digital Invoice)",
+      "invoiceEmail": "invoice@company.com",
+      "isDefault": "false"
+    }
+  ]
+}
